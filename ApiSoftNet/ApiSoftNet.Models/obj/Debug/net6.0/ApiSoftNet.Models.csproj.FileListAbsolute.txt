@@ -1,0 +1,12 @@
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\bin\Debug\net6.0\ApiSoftNet.Models.deps.json
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\bin\Debug\net6.0\ApiSoftNet.Models.dll
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\bin\Debug\net6.0\ApiSoftNet.Models.pdb
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ApiSoftNet.Models.csproj.AssemblyReference.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ApiSoftNet.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ApiSoftNet.Models.AssemblyInfoInputs.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ApiSoftNet.Models.AssemblyInfo.cs
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ApiSoftNet.Models.csproj.CoreCompileInputs.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ApiSoftNet.Models.dll
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\refint\ApiSoftNet.Models.dll
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ApiSoftNet.Models.pdb
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.Models\obj\Debug\net6.0\ref\ApiSoftNet.Models.dll

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC9ECA-5268-449A-807D-4F75BE70052E}|ApiSoftNet\\ApiSoftNet.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33FC9ECA-5268-449A-807D-4F75BE70052E}|ApiSoftNet\\ApiSoftNet.csproj|solutionrelative:apisoftnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.dataaccess\\idetusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|solutionrelative:apisoftnet.dataaccess\\idetusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.dataaccess\\iusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|solutionrelative:apisoftnet.dataaccess\\iusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.businesslogic\\impl\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|solutionrelative:apisoftnet.businesslogic\\impl\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.businesslogic\\impl\\detusuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|solutionrelative:apisoftnet.businesslogic\\impl\\detusuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.dataaccess\\impl\\detusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|solutionrelative:apisoftnet.dataaccess\\impl\\detusuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.dataaccess\\impl\\usuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC7EC28-967E-4E6D-940A-179CB62D56C6}|ApiSoftNet.DataAccess\\ApiSoftNet.DataAccess.csproj|solutionrelative:apisoftnet.dataaccess\\impl\\usuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.businesslogic\\idetusuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|solutionrelative:apisoftnet.businesslogic\\idetusuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet.businesslogic\\iusuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CA326F-6C87-4F81-86C7-4876A478FBE2}|ApiSoftNet.BusinessLogic\\ApiSoftNet.BusinessLogic.csproj|solutionrelative:apisoftnet.businesslogic\\iusuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC9ECA-5268-449A-807D-4F75BE70052E}|ApiSoftNet\\ApiSoftNet.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet\\controllers\\detusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC9ECA-5268-449A-807D-4F75BE70052E}|ApiSoftNet\\ApiSoftNet.csproj|solutionrelative:apisoftnet\\controllers\\detusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC9ECA-5268-449A-807D-4F75BE70052E}|ApiSoftNet\\ApiSoftNet.csproj|c:\\users\\carlc\\source\\repos\\apisoftnet\\apisoftnet\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC9ECA-5268-449A-807D-4F75BE70052E}|ApiSoftNet\\ApiSoftNet.csproj|solutionrelative:apisoftnet\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiSoftNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet\\appsettings.json",
+              "RelativeToolTip": "ApiSoftNet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T07:14:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetUsuarioDA.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\Impl\\DetUsuarioDA.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.DataAccess\\Impl\\DetUsuarioDA.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\Impl\\DetUsuarioDA.cs",
+              "RelativeToolTip": "ApiSoftNet.DataAccess\\Impl\\DetUsuarioDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:28:08.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioDA.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\Impl\\UsuarioDA.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.DataAccess\\Impl\\UsuarioDA.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\Impl\\UsuarioDA.cs",
+              "RelativeToolTip": "ApiSoftNet.DataAccess\\Impl\\UsuarioDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:34:16.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDetUsuarioDA.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\IDetUsuarioDA.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.DataAccess\\IDetUsuarioDA.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\IDetUsuarioDA.cs",
+              "RelativeToolTip": "ApiSoftNet.DataAccess\\IDetUsuarioDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:27:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioDA.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\IUsuarioDA.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.DataAccess\\IUsuarioDA.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.DataAccess\\IUsuarioDA.cs",
+              "RelativeToolTip": "ApiSoftNet.DataAccess\\IUsuarioDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:23:10.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetUsuarioBL.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\Impl\\DetUsuarioBL.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.BusinessLogic\\Impl\\DetUsuarioBL.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\Impl\\DetUsuarioBL.cs",
+              "RelativeToolTip": "ApiSoftNet.BusinessLogic\\Impl\\DetUsuarioBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:21:33.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioBL.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\Impl\\UsuarioBL.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.BusinessLogic\\Impl\\UsuarioBL.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\Impl\\UsuarioBL.cs",
+              "RelativeToolTip": "ApiSoftNet.BusinessLogic\\Impl\\UsuarioBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:27:47.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDetUsuarioBL.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\IDetUsuarioBL.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.BusinessLogic\\IDetUsuarioBL.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\IDetUsuarioBL.cs",
+              "RelativeToolTip": "ApiSoftNet.BusinessLogic\\IDetUsuarioBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:21:19.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioBL.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\IUsuarioBL.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet.BusinessLogic\\IUsuarioBL.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.BusinessLogic\\IUsuarioBL.cs",
+              "RelativeToolTip": "ApiSoftNet.BusinessLogic\\IUsuarioBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:37:37.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet\\Controllers\\DetUsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet\\Controllers\\DetUsuarioController.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet\\Controllers\\DetUsuarioController.cs",
+              "RelativeToolTip": "ApiSoftNet\\Controllers\\DetUsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:18:08.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiSoftNet\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApiSoftNet\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:43:03.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

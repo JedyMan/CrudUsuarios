@@ -1,0 +1,5 @@
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.BusinessLogic\obj\Debug\net6.0\ApiSoftNet.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.BusinessLogic\obj\Debug\net6.0\ApiSoftNet.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.BusinessLogic\obj\Debug\net6.0\ApiSoftNet.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.BusinessLogic\obj\Debug\net6.0\ApiSoftNet.BusinessLogic.AssemblyInfo.cs
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.BusinessLogic\obj\Debug\net6.0\ApiSoftNet.BusinessLogic.csproj.CoreCompileInputs.cache

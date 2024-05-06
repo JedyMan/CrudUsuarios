@@ -1,0 +1,17 @@
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\bin\Debug\net6.0\ApiSoftNet.DataAccess.deps.json
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\bin\Debug\net6.0\ApiSoftNet.DataAccess.runtimeconfig.json
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\bin\Debug\net6.0\ApiSoftNet.DataAccess.dll
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\bin\Debug\net6.0\ApiSoftNet.DataAccess.pdb
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\bin\Debug\net6.0\ApiSoftNet.Models.dll
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\bin\Debug\net6.0\ApiSoftNet.Models.pdb
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.csproj.AssemblyReference.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.AssemblyInfoInputs.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.AssemblyInfo.cs
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftN.B5647885.Up2Date
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.dll
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\refint\ApiSoftNet.DataAccess.dll
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.pdb
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ApiSoftNet.DataAccess.genruntimeconfig.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet.DataAccess\obj\Debug\net6.0\ref\ApiSoftNet.DataAccess.dll

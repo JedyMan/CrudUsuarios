@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AnnFLBUyWWBhbQ2VIWj5o4gYQZJIGsA5EfJOX0A5skw9QXdMv5cag8r/jIYZm4ogSAHOnJ/s0Lv7DQ+Px/Xf9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlc\\source\\repos\\ApiSoftNet\\ApiSoftNet.Models\\ApiSoftNet.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlc\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

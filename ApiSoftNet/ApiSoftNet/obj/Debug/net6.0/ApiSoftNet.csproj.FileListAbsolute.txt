@@ -1,0 +1,6 @@
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet\obj\Debug\net6.0\ApiSoftNet.csproj.AssemblyReference.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet\obj\Debug\net6.0\ApiSoftNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet\obj\Debug\net6.0\ApiSoftNet.AssemblyInfoInputs.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet\obj\Debug\net6.0\ApiSoftNet.AssemblyInfo.cs
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet\obj\Debug\net6.0\ApiSoftNet.csproj.CoreCompileInputs.cache
+C:\Users\carlc\source\repos\ApiSoftNet\ApiSoftNet\obj\Debug\net6.0\ApiSoftNet.MvcApplicationPartsAssemblyInfo.cache
