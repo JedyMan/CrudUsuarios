@@ -1,0 +1,49 @@
+<div class="container">
+
+    <div class="container text-center" style="margin: 30px">
+        <h3> CRUD de Usuarios</h3>
+    </div>
+
+    <button type="button" class="btn btn-primary" routerLink="/agregar-usuario">
+        Agregar Usuario
+    </button>
+
+    <br>
+    <br>
+
+    <table class="table table-striped table-hover aling-midle">
+        <thead class="table-dark">
+            <tr>
+                <th>
+                    <input type="checkbox" [checked]="isAllCheckBoxChecked()" (change)="checkAllCheckBox($event)">
+                </th>
+                <th scope="col">Id</th>
+                <th scope="col">Tipo Documento</th>
+                <th scope="col">Nro Documento</th>
+                <th scope="col">Apellidos</th>
+                <th scope="col">Nombre</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let usuario of usuarios; let i=index;">
+                <td>
+                    <input type="checkbox" value="{{usuario.cod_usuario}}" [(ngModel)]="usuarios[i].checked">
+                </td>
+                <th scope="row">{{usuario.cod_usuario}}</th>
+                <td>{{usuario.tip_documento}}</td>
+                <td>{{usuario.var_doc_identidad}}</td>
+                <td>{{usuario.var_apellidos}}</td>
+                <td>{{usuario.var_nombres}}</td>
+                <td class="text-center">
+                    <div>
+                        <button (click)="editarUsuario(usuario.cod_usuario)" class="btn btn-warning btn-sm me-3" id="btnEditar">Editar</button>
+                        <button (click)="eliminarUsuario(usuario.cod_usuario)" class="btn btn-danger btn-sm me-3" id="btnEliminar">Eliminar</button>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+</div>

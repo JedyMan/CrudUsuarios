@@ -1,0 +1,38 @@
+<div class="container">
+    <div class="container text-center" style="margin: 30px">
+        <h3>Registrar Usuario</h3>
+    </div>
+
+    <form (ngSubmit)="onSubmit()">
+        <div class="mb-3">
+            <label for="tip_documento" class="form-label">Tipo Documento</label>
+            <input type="text" class="form-control" id="tip_documento" name="tip_documento" required="true" [(ngModel)]="usuario.tip_documento">
+        </div>
+        <div class="mb-3">
+            <label for="var_doc_identidad" class="form-label">Nro Documento</label>
+            <input type="text" class="form-control" id="var_doc_identidad" name="var_doc_identidad" required="true" [(ngModel)]="usuario.var_doc_identidad">
+        </div>
+        <div class="mb-3">
+            <label for="var_apellidos" class="form-label">Apellidos</label>
+            <input type="text" class="form-control" id="var_apellidos" name="var_apellidos" required="true" [(ngModel)]="usuario.var_apellidos">
+        </div>
+        <div class="mb-3">
+            <label for="var_nombres" class="form-label">Nombres</label>
+            <input type="text" class="form-control" id="var_nombres" name="var_nombres" required="true" [(ngModel)]="usuario.var_nombres">
+        </div>
+        <div class="mb-3">
+            <label for="var_num_telefono" class="form-label">Telefono</label>
+            <input type="text" class="form-control" id="var_num_telefono" name="var_num_telefono" required="true" [(ngModel)]="usuario.var_num_telefono">
+        </div>
+        <div class="mb-3">
+            <label for="var_password" class="form-label">Password</label>
+            <input type="text" class="form-control" id="var_password" name="var_password" required="true" [(ngModel)]="usuario.var_password">
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-warning btn-sm me-3">Registrar</button>
+            <a href="/" class="btn btn-danger btn-sm">Regresar</a>
+        </div>
+    </form>
+
+</div>
